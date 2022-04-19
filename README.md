@@ -14,3 +14,5 @@ Here are some ideas to get you started:
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 </p>
+
+[![Prajwal's github stats](https://github-readme-stats.vercel.app/api?username=Prajwal238&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
