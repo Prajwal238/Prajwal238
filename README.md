@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Cybersecurity, Flutter Apps.
 - 📫 How to reach me: Send an email to prajwal_katakam@srmap.edu.in
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+![LinkedIn](https://www.linkedin.com/in/prajwal-katakam-9351451a4/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
