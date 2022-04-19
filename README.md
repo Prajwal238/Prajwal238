@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-**Prajwal238/Prajwal238**
-
+**About Myself**
+--------------------
 Here are some ideas to get you started:
 
 - 🔭 Currently pursuing B.Tech in CSE at SRM Univeristy AP
