@@ -14,4 +14,4 @@ Here are some ideas to get you started:
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 </p>
-![LinkedIn](https://www.linkedin.com/in/prajwal-katakam-9351451a4/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://www.linkedin.com/in/prajwal-katakam-9351451a4/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
