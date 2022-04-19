@@ -15,6 +15,6 @@ Here are some ideas to get you started:
   </a> &nbsp; 
 </p>
 
-[![Prajwal's github stats](https://github-readme-stats.vercel.app/api?username=Prajwal238&count_private=true&show_icons=true&theme=onedark&hide_rank=false)]  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal238)]
+[![Prajwal's github stats](https://github-readme-stats.vercel.app/api?username=Prajwal238&count_private=true&show_icons=true&theme=onedark&hide_rank=false)](https://github.com/Prajwal238/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal238)](https://github.com/Prajwal238/)
 
 
