@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 Currently pursuing B.Tech in CSE at SRM Univeristy AP
 - 🌱 Learning Web Pentesting, Blockchain, Flutter App and Web Development.
 - 💬 Ask me about Cybersecurity, Flutter Apps.
-- 📫 How to reach me: Send an email to prajwal_katakam@srmap.edu.in
+- 📫 How to reach me: Send an email to prajwal.katakam@gmail.com
 
 <p>
   <a href="https://www.linkedin.com/in/prajwal-katakam-9351451a4" rel="nofollow noreferrer">
